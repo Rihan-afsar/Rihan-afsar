@@ -18,6 +18,6 @@
 
 *NOTE: These languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=im-adnan&show_icons=true&locale=en&l" alt="im-adnan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rihan-afsar&show_icons=true&locale=en&l" alt="Rihan-afsar" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=im-adnan&" alt="im-adnan" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Rihan-afsar&" alt="Rihan-afsar" /></p>
