@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on IOT
 
-- 🌱 I’m currently *learning*   **Bash - Script**, **SQL** 
+- 🌱 Languages i know   **Bash - Script**, **SQL** 
 
-- 🤝 I’m looking forward to learn **Python**
+- 🤝 I’m currently *learning*  **Python**
 
 - 📫 Technology i know **Oracle**, **DBA**, **Grafana**, **Kibana**, **RabbitMQ**, **ETL**, **ORACLE - Weblogic**
 
