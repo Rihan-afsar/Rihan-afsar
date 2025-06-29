@@ -9,8 +9,7 @@
 
 - 🤝 I’m currently *learning*  **Python**
 
-- 📫 Technology i know **Oracle**, **DBA**, **Grafana**, **Kibana**, **RabbitMQ**, **ETL**, **ORACLE - Weblogic**
-
+- 📫 Technology i know **Oracle**, **DBA**, **Grafana**, **Kibana**, **RabbitMQ**, **ETL**,**PostgreSQL**, **ORACLE - Weblogic**
 
 
 
